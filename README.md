@@ -19,6 +19,8 @@
     - cpp 065
     - python 050
     - ================================
+- Thanks to HackerRank
+    - https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true
 
 ## Libraries used
 - java.util.Scanner
