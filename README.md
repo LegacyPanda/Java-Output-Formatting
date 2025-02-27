@@ -24,3 +24,4 @@
 - java.util.Scanner
 
 ## 2025-02-27
+- Set up the project along with understand what I have to do.
