@@ -23,4 +23,10 @@
 ## Libraries used
 - java.util.Scanner
 
-## 2025-02-27
+## 2025-03-01
+- I created my own class to return the number of integers in a whole integer.
+- To ensure that the restrictions were followed, if the user inputs out of range inputs, the program will shut down
+    - System.exit(0)
+- When a file has been declared static in a class, it means it will operate independent of an instance but the name of the class will have to be in front
+    - NumberInWhole.numbersInWhole();
+
